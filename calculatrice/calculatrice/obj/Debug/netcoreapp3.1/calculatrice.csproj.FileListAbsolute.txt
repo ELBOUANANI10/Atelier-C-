@@ -1,0 +1,13 @@
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.exe
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.deps.json
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.json
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.runtimeconfig.dev.json
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\bin\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.dll
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\calculatrice\calculatrice\obj\Debug\netcoreapp3.1\calculatrice.genruntimeconfig.cache

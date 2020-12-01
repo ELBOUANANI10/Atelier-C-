@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.exe
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.deps.json
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.runtimeconfig.json
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.runtimeconfig.dev.json
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.dll
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\bin\Debug\netcoreapp3.1\boucle2.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.dll
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\boucle2\boucle2\obj\Debug\netcoreapp3.1\boucle2.genruntimeconfig.cache

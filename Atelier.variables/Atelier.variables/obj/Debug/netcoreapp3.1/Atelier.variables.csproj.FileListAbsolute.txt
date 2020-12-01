@@ -1,0 +1,13 @@
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.exe
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.deps.json
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.runtimeconfig.json
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.runtimeconfig.dev.json
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.dll
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\bin\Debug\netcoreapp3.1\Atelier.variables.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.dll
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.pdb
+C:\Users\Administrateur\Desktop\atelier-c#\Atelier.variables\Atelier.variables\obj\Debug\netcoreapp3.1\Atelier.variables.genruntimeconfig.cache

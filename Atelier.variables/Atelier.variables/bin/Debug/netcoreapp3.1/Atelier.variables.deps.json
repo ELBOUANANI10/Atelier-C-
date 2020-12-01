@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atelier.variables/1.0.0": {
+        "runtime": {
+          "Atelier.variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atelier.variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
